@@ -1,0 +1,13 @@
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.deps.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.runtimeconfig.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.runtimeconfig.dev.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/obj/Debug/netcoreapp1.1/Calculator.Tests.AssemblyInfo.cs
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.pdb
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.pdb
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/obj/Debug/netcoreapp1.1/Calculator.Tests.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator.Tests/obj/Debug/netcoreapp1.1/Calculator.Tests.pdb

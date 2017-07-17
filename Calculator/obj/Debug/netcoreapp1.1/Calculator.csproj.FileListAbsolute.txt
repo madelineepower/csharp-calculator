@@ -1,0 +1,8 @@
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.deps.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.runtimeconfig.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.runtimeconfig.dev.json
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.pdb
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.AssemblyInfo.cs
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.dll
+/Users/madelinepower/workspace/csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.pdb
